@@ -1,0 +1,172 @@
+topic 0:
+             discuss  	---	  0.0431
+             freedom  	---	  0.0257
+                news  	---	  0.0243
+               today  	---	  0.0228
+             members  	---	  0.0225
+                hope  	---	  0.0223
+                tune  	---	  0.0197
+             joining  	---	  0.0186
+                long  	---	  0.0168
+              latest  	---	  0.0165
+                hear  	---	  0.0163
+              rights  	---	  0.0161
+                 met  	---	  0.0160
+              listen  	---	  0.0155
+                city  	---	  0.0135
+
+topic 1:
+               watch  	---	  0.0501
+               honor  	---	  0.0353
+                live  	---	  0.0305
+              people  	---	  0.0295
+            national  	---	  0.0282
+               state  	---	  0.0264
+             service  	---	  0.0247
+               today  	---	  0.0238
+                 sen  	---	  0.0230
+               staff  	---	  0.0222
+             talking  	---	  0.0176
+           important  	---	  0.0173
+           statement  	---	  0.0171
+            remember  	---	  0.0166
+          washington  	---	  0.0153
+
+topic 2:
+               house  	---	  0.0514
+                bill  	---	  0.0389
+                work  	---	  0.0324
+             support  	---	  0.0322
+                 act  	---	  0.0305
+                good  	---	  0.0264
+           americans  	---	  0.0252
+                read  	---	  0.0241
+              senate  	---	  0.0233
+                vote  	---	  0.0206
+               today  	---	  0.0202
+              passed  	---	  0.0174
+              reform  	---	  0.0135
+                best  	---	  0.0135
+                 irs  	---	  0.0134
+
+topic 3:
+           president  	---	  0.0494
+            families  	---	  0.0398
+              school  	---	  0.0346
+              nation  	---	  0.0266
+                like  	---	  0.0249
+                talk  	---	  0.0249
+              family  	---	  0.0246
+                high  	---	  0.0240
+               today  	---	  0.0236
+                team  	---	  0.0209
+               check  	---	  0.0204
+               great  	---	  0.0185
+               speak  	---	  0.0144
+                tour  	---	  0.0143
+               event  	---	  0.0141
+
+topic 4:
+                help  	---	  0.0412
+                need  	---	  0.0406
+                take  	---	  0.0197
+             student  	---	  0.0191
+             deserve  	---	  0.0180
+                debt  	---	  0.0159
+                time  	---	  0.0159
+               world  	---	  0.0157
+               right  	---	  0.0154
+                year  	---	  0.0150
+            congress  	---	  0.0146
+             federal  	---	  0.0146
+             college  	---	  0.0144
+                 act  	---	  0.0142
+              action  	---	  0.0137
+
+topic 5:
+                care  	---	  0.0488
+            american  	---	  0.0355
+              health  	---	  0.0350
+               proud  	---	  0.0302
+           community  	---	  0.0218
+              access  	---	  0.0180
+              making  	---	  0.0138
+           education  	---	  0.0137
+              center  	---	  0.0136
+                 top  	---	  0.0119
+              report  	---	  0.0116
+              system  	---	  0.0115
+             address  	---	  0.0105
+             history  	---	  0.0104
+                stop  	---	  0.0104
+
+topic 6:
+               happy  	---	  0.0484
+               today  	---	  0.0455
+            students  	---	  0.0418
+                time  	---	  0.0369
+               years  	---	  0.0250
+               women  	---	  0.0247
+            birthday  	---	  0.0197
+                keep  	---	  0.0195
+                 law  	---	  0.0186
+                 ago  	---	  0.0171
+             enjoyed  	---	  0.0155
+                made  	---	  0.0147
+                pass  	---	  0.0138
+               great  	---	  0.0135
+            continue  	---	  0.0135
+
+topic 7:
+                 new  	---	  0.0507
+              thanks  	---	  0.0480
+               great  	---	  0.0478
+               today  	---	  0.0394
+               thank  	---	  0.0320
+                join  	---	  0.0268
+             morning  	---	  0.0258
+             hearing  	---	  0.0240
+                make  	---	  0.0232
+              office  	---	  0.0226
+             meeting  	---	  0.0190
+           yesterday  	---	  0.0171
+             forward  	---	  0.0161
+               visit  	---	  0.0156
+                meet  	---	  0.0131
+
+topic 8:
+             honored  	---	  0.0382
+                 big  	---	  0.0214
+              friend  	---	  0.0190
+                 win  	---	  0.0162
+              heroes  	---	  0.0160
+                june  	---	  0.0148
+                life  	---	  0.0142
+             friends  	---	  0.0114
+                 two  	---	  0.0106
+                year  	---	  0.0103
+                stem  	---	  0.0102
+                west  	---	  0.0099
+               named  	---	  0.0096
+            majority  	---	  0.0095
+             schools  	---	  0.0094
+
+topic 9:
+                 day  	---	  0.0825
+                 see  	---	  0.0372
+                 get  	---	  0.0339
+                last  	---	  0.0291
+             america  	---	  0.0271
+             economy  	---	  0.0248
+              energy  	---	  0.0231
+                 job  	---	  0.0201
+             million  	---	  0.0187
+                 let  	---	  0.0184
+            speaking  	---	  0.0162
+               great  	---	  0.0160
+              county  	---	  0.0160
+               night  	---	  0.0145
+         legislation  	---	  0.0144
+
+
+

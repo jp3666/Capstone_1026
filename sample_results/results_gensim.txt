@@ -1,0 +1,11 @@
+2014-10-25 23:44:50,228 : INFO : topic #0 (0.100): 0.011*mcconnell + 0.007*immigration + 0.007*fiscalcliff + 0.006*sen + 0.005*house + 0.005*live + 0.004*senate + 0.004*watch + 0.004*reform + 0.004*tune
+2014-10-25 23:44:50,231 : INFO : topic #1 (0.100): 0.005*women + 0.004*sequester + 0.004*country + 0.004*time + 0.004*deficit + 0.004*markwarner + 0.004*americans + 0.004*honor + 0.003*leesburg + 0.003*talking
+2014-10-25 23:44:50,235 : INFO : topic #2 (0.100): 0.010*idpol + 0.004*tonight + 0.003*hall + 0.003*town + 0.003*veterans + 0.002*txcot + 0.002*idaho + 0.002*robert + 0.002*txgop + 0.002*pete
+2014-10-25 23:44:50,238 : INFO : topic #3 (0.100): 0.007*women + 0.006*support + 0.006*vawa + 0.006*rt + 0.005*proud + 0.005*violence + 0.004*reform + 0.004*nm + 0.004*work + 0.004*mt
+2014-10-25 23:44:50,242 : INFO : topic #4 (0.100): 0.005*ar2 + 0.004*kathy_amidon + 0.003*time + 0.003*good + 0.003*energy + 0.003*congrats + 0.003*r + 0.003*people + 0.003*bill + 0.003*ur
+2014-10-25 23:44:50,245 : INFO : topic #5 (0.100): 0.012*nc7 + 0.009*lord + 0.006*psalm + 0.006*man + 0.006*god + 0.005*keystonexl + 0.005*timetobuild + 0.005*hath + 0.004*il + 0.003*christ
+2014-10-25 23:44:50,248 : INFO : topic #6 (0.100): 0.023*sen + 0.022*sanders + 0.013*vt + 0.010*budget + 0.010*news + 0.008*bernie + 0.007*senate + 0.007*vermont + 0.007*fiscalcliff + 0.006*talking
+2014-10-25 23:44:50,252 : INFO : topic #7 (0.100): 0.009*congress + 0.007*house + 0.007*gun + 0.007*president + 0.006*senate + 0.006*sandy + 0.005*time + 0.005*spending + 0.005*budget + 0.005*bill
+2014-10-25 23:44:50,255 : INFO : topic #8 (0.100): 0.006*house + 0.006*budget + 0.004*senate + 0.004*president + 0.004*office + 0.004*tune + 0.004*work + 0.004*morning + 0.004*forward + 0.004*live
+2014-10-25 23:44:50,258 : INFO : topic #9 (0.100): 0.008*klinetth + 0.007*copolitics + 0.006*ptc + 0.005*resident + 0.005*energy + 0.005*cojobs + 0.005*northdakota + 0.005*wind + 0.005*staff + 0.004*stribpol
+2014-10-25 23:44:50,259 : INFO : topic diff=0.246170, rho=0.408248

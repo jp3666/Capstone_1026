@@ -1,0 +1,169 @@
+topic 0:
+                rage  	---	  0.0023
+                 lib  	---	  0.0010
+       investigation  	---	  0.0008
+               cliff  	---	  0.0007
+                 ham  	---	  0.0006
+             claimed  	---	  0.0006
+           determine  	---	  0.0006
+              source  	---	  0.0005
+          calculated  	---	  0.0005
+             corrupt  	---	  0.0005
+                 lie  	---	  0.0004
+                 new  	---	  0.0004
+          washington  	---	  0.0004
+             serious  	---	  0.0004
+               sandy  	---	  0.0004
+
+topic 1:
+                work  	---	  0.0008
+                wild  	---	  0.0008
+               happy  	---	  0.0006
+               today  	---	  0.0006
+          washington  	---	  0.0005
+           christmas  	---	  0.0005
+                stay  	---	  0.0005
+               voted  	---	  0.0005
+               state  	---	  0.0004
+                back  	---	  0.0004
+                year  	---	  0.0004
+                just  	---	  0.0004
+              family  	---	  0.0004
+               raise  	---	  0.0004
+                 get  	---	  0.0004
+
+topic 2:
+                 max  	---	  0.0007
+                 day  	---	  0.0007
+                read  	---	  0.0006
+                time  	---	  0.0005
+             america  	---	  0.0004
+                 gun  	---	  0.0004
+            congress  	---	  0.0004
+           president  	---	  0.0004
+               state  	---	  0.0004
+              number  	---	  0.0004
+              people  	---	  0.0004
+               today  	---	  0.0004
+               years  	---	  0.0004
+              senate  	---	  0.0004
+           christmas  	---	  0.0004
+
+topic 3:
+               today  	---	  0.0171
+               house  	---	  0.0091
+               great  	---	  0.0086
+            congress  	---	  0.0086
+                 new  	---	  0.0077
+              senate  	---	  0.0073
+           president  	---	  0.0066
+                time  	---	  0.0063
+                bill  	---	  0.0061
+                 act  	---	  0.0056
+              thanks  	---	  0.0053
+                work  	---	  0.0052
+                need  	---	  0.0051
+             support  	---	  0.0048
+            spending  	---	  0.0047
+
+topic 4:
+              senate  	---	  0.0007
+               today  	---	  0.0007
+               brown  	---	  0.0007
+                year  	---	  0.0006
+              report  	---	  0.0006
+                 new  	---	  0.0006
+                unto  	---	  0.0006
+                hope  	---	  0.0006
+                 max  	---	  0.0006
+             support  	---	  0.0005
+            advocate  	---	  0.0005
+           statement  	---	  0.0005
+                live  	---	  0.0005
+           americans  	---	  0.0005
+                join  	---	  0.0005
+
+topic 5:
+       communication  	---	  0.0003
+               gates  	---	  0.0002
+             convent  	---	  0.0002
+           unnatural  	---	  0.0002
+              coffee  	---	  0.0002
+          distracted  	---	  0.0002
+          definitely  	---	  0.0002
+             enemies  	---	  0.0002
+                bien  	---	  0.0002
+              arrest  	---	  0.0002
+               crown  	---	  0.0002
+             listing  	---	  0.0002
+           springing  	---	  0.0002
+             breadth  	---	  0.0002
+            missouri  	---	  0.0002
+
+topic 6:
+                 max  	---	  0.0008
+               great  	---	  0.0004
+                read  	---	  0.0004
+              thanks  	---	  0.0003
+               women  	---	  0.0003
+              number  	---	  0.0003
+             protect  	---	  0.0003
+             support  	---	  0.0003
+            congress  	---	  0.0003
+              little  	---	  0.0003
+                time  	---	  0.0003
+                just  	---	  0.0003
+             working  	---	  0.0003
+                 day  	---	  0.0003
+                need  	---	  0.0003
+
+topic 7:
+               today  	---	  0.0011
+               great  	---	  0.0011
+            congress  	---	  0.0008
+                time  	---	  0.0008
+              thanks  	---	  0.0008
+             hearing  	---	  0.0008
+               house  	---	  0.0007
+               thank  	---	  0.0007
+           president  	---	  0.0007
+             forward  	---	  0.0006
+                 tax  	---	  0.0006
+                tune  	---	  0.0006
+              people  	---	  0.0005
+         immigration  	---	  0.0005
+           americans  	---	  0.0005
+
+topic 8:
+               equal  	---	  0.0029
+               women  	---	  0.0022
+                 pay  	---	  0.0019
+            violence  	---	  0.0019
+                iowa  	---	  0.0018
+            congress  	---	  0.0018
+                 act  	---	  0.0017
+               today  	---	  0.0017
+              senate  	---	  0.0011
+                need  	---	  0.0011
+             sherman  	---	  0.0009
+                 don  	---	  0.0009
+                vote  	---	  0.0009
+                 new  	---	  0.0009
+             forward  	---	  0.0009
+
+topic 9:
+                fame  	---	  0.0006
+             support  	---	  0.0004
+               great  	---	  0.0004
+                 let  	---	  0.0004
+                know  	---	  0.0004
+              energy  	---	  0.0004
+                 ham  	---	  0.0004
+                vote  	---	  0.0004
+                 lib  	---	  0.0003
+                week  	---	  0.0003
+            congress  	---	  0.0003
+               makes  	---	  0.0003
+          appreciate  	---	  0.0003
+             elected  	---	  0.0003
+               thank  	---	  0.0003
